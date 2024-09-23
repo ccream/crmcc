@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Jiasen&#39;s site on crmcc</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content in Jiasen&#39;s site on crmcc</description>
+    <generator>Hugo -- 0.134.3</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 23 Sep 2024 15:16:27 -0700</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Mon, 23 Sep 2024 15:16:27 -0700</pubDate>
+      <guid>http://localhost:1313/about/</guid>
+      <description>&lt;p&gt;This is Jiasen&amp;rsquo;s personal webpage.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Notes</title>
+      <link>http://localhost:1313/cv/</link>
+      <pubDate>Mon, 23 Sep 2024 15:16:27 -0700</pubDate>
+      <guid>http://localhost:1313/cv/</guid>
+      <description>&lt;p&gt;You can view my CV &lt;a href=&#34;../pdfs/CV__Aug_2024_.pdf&#34;&gt;here&lt;/a&gt;. There will be casual updates.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Notes</title>
+      <link>http://localhost:1313/notes/</link>
+      <pubDate>Mon, 23 Sep 2024 15:16:27 -0700</pubDate>
+      <guid>http://localhost:1313/notes/</guid>
+      <description>&lt;p&gt;Below are some notes I took when studying mathematics (at school or on my own). They contain many mistakes.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;../pdfs/introduction-latex.pdf&#34;&gt;Homological Algebra&lt;/a&gt;&lt;br&gt;
+&lt;strong&gt;(To be uploaded)&lt;/strong&gt; Notes of Hilton &amp;amp; Stammbach&amp;rsquo;s &lt;em&gt;A Course of Homological Algebra&lt;/em&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;../pdfs/latex-math.pdf&#34;&gt;Commutative Algebra&lt;/a&gt;&lt;br&gt;
+&lt;strong&gt;(To be uploaded)&lt;/strong&gt; Notes of Atiyah&amp;rsquo;s &lt;em&gt;Introduction to Commutative Algebra&lt;/em&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;../pdfs/advanced-formatting.pdf&#34;&gt;Algebraic Curves&lt;/a&gt;&lt;br&gt;
+&lt;strong&gt;(To be uploaded)&lt;/strong&gt; Lecture notes of &lt;em&gt;Algebraic Curve&lt;/em&gt; at BIMSA + Notes of Fulton&amp;rsquo;s &lt;em&gt;Algebraic Curves&lt;/em&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;../pdfs/MATH_540_Notes.pdf&#34;&gt;Algebraic Topology&lt;/a&gt;&lt;br&gt;
+Lecture notes of &lt;em&gt;Algebraic Topology&lt;/em&gt; at USC.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;../pdfs/MATH_532_Notes.pdf&#34;&gt;Enumerative Combinatorics&lt;/a&gt;&lt;br&gt;
+Lecture notes of &lt;em&gt;Combinatorial Analysis&lt;/em&gt; at USC.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;../pdfs/Galois_Theory_Summary.pdf&#34;&gt;Galois Theory&lt;/a&gt;&lt;br&gt;
+Notes of Milne&amp;rsquo;s &lt;em&gt;Field &amp;amp; Galois Theory&lt;/em&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;../pdfs/advanced-formatting.pdf&#34;&gt;Riemannian Geometry&lt;/a&gt;&lt;br&gt;
+&lt;strong&gt;(To be uploaded)&lt;/strong&gt; Notes of Lee&amp;rsquo;s &lt;em&gt;Introduction to Riemannian Manifolds&lt;/em&gt; + do Carmo&amp;rsquo;s &lt;em&gt;Riemannian Geometry&lt;/em&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;../pdfs/490_Final_Project.pdf&#34;&gt;Directed Reading: Infinity Categories&lt;/a&gt;&lt;br&gt;
+Notes on &lt;em&gt;Infinity Category Theory&lt;/em&gt; supervised by Joseph Helfer.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;../pdfs/Point_Set_Topology_Notes.pdf&#34;&gt;Point-Set Topology&lt;/a&gt;&lt;br&gt;
+Notes of Munkres&amp;rsquo;s &lt;em&gt;Topology&lt;/em&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;And here are some notes that might or might not come.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Blogs</title>
+      <link>http://localhost:1313/posts/my-first-post/</link>
+      <pubDate>Mon, 23 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/my-first-post/</guid>
+      <description>&lt;p&gt;You can see my blogs &lt;a href=&#34;https://ccrm.substack.com/?utm_source=substack&amp;amp;utm_medium=web&amp;amp;utm_campaign=substack_profile&#34;&gt;here&lt;/a&gt;. They are casually updated.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
