@@ -1,24 +1,29 @@
-baseURL: "https://example.org/"
+baseURL: "https://ccream.github.io/crmcc/"
 languageCode: "en-us"
 title: "crmcc"
 theme: 
   - "PaperMod"
 
+
 menu:
   main:
     - identifier: about
       name: "About"
-      url: "/about/"
+      url: ""
       weight: 1
-    - identifier: blog
-      name: "Blog"
-      url: "/posts/"
+    - identifier: research
+      name: "Research"
+      url: "/research/"
       weight: 2
     - identifier: notes
       name: "Notes"
       url: "/notes/"
       weight: 3
+    - identifier: reading
+      name: "Reading"
+      url: "/reading/"
+      weight: 4
     - identifier: cv
       name: "CV"
       url: "/cv/"
-      weight: 4
+      weight: 5

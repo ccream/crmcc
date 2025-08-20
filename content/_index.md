@@ -1,12 +1,18 @@
 ---
 title: "Jiasen's site"
 draft: false
+imageUrl: "/images/1.png"
+imageWidth: 200
+imageHeight: 200
 ---
+## Welcome to my website!
 
-## Welcome!
+I'm a 4th year undergraduate student at USC (University of Southern California) studying mathematics.
 
-I'm Jiasen Liu, and I often go by Jason. I'm a 3rd year undergraduate at the University of Southern California majoring in mathematics and minoring in computer science.
+My current interest lies in algebraic topology, plus its connections to algebraic geometry, *K*-theory, number theory, and geometric topology. 
 
-I'm most interested in Symplectic Geometry and Algebraic Geometry. I also am interested in theoretical computer science and combinatorics, in particular voting theory. My Erdős number is 2.
+In particular, I'm working on a thesis about motivic cohomology and [*the Milnor conjecture*](https://en.wikipedia.org/wiki/Milnor_conjecture_(K-theory)), so most mathematics I recently learned centers around it. My thesis advisor is [Aravind Asok](https://dornsife.usc.edu/aravind-asok/).
 
-Outside academics, I love chess, soccer, detective novels, and observing humans.
+I have a side interest in theoretical computer science and combinatorics, in particular in computational social choice.
+
+This summer, I'm at the [UChicago Math REU](https://math.uchicago.edu/~may/REU2025/), where I'm mentored by [Peter May](https://www.math.uchicago.edu/~may/) and [Ajay Srinivasan](https://avsrinivasan.github.io/). In the past summers, I had been at [PCMI](https://www.ias.edu/pcmi/pcmi-2024-undergraduate-summer-school), [UConnecticut](https://ctnt-summer.math.uconn.edu/about-ctnt2024/), and [BU](https://promys.org/).
