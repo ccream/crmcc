@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Posts on crmcc</title>
+    <link>http://localhost:1313/posts/</link>
+    <description>Recent content in Posts on crmcc</description>
+    <generator>Hugo -- 0.134.3</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 23 Sep 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Blogs</title>
+      <link>http://localhost:1313/posts/my-first-post/</link>
+      <pubDate>Mon, 23 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/my-first-post/</guid>
+      <description>&lt;p&gt;You can see my blogs &lt;a href=&#34;https://ccrm.substack.com/?utm_source=substack&amp;amp;utm_medium=web&amp;amp;utm_campaign=substack_profile&#34;&gt;here&lt;/a&gt;. They are casually updated.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

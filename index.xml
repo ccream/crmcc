@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Jiasen's site on crmcc</title><link>https://example.org/</link><description>Recent content in Jiasen's site on crmcc</description><generator>Hugo -- 0.134.3</generator><language>en-us</language><lastBuildDate>Mon, 23 Sep 2024 15:16:27 -0700</lastBuildDate><atom:link href="https://example.org/index.xml" rel="self" type="application/rss+xml"/><item><title>About</title><link>https://example.org/about/</link><pubDate>Mon, 23 Sep 2024 15:16:27 -0700</pubDate><guid>https://example.org/about/</guid><description>&lt;p>This is Jiasen&amp;rsquo;s personal webpage.&lt;/p></description></item><item><title>CV</title><link>https://example.org/cv/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://example.org/cv/</guid><description>&lt;p>You can view my CV &lt;a href="../pdfs/CCV__Jul_2025_.pdf">here&lt;/a>.&lt;/p></description></item><item><title>Notes</title><link>https://example.org/notes/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://example.org/notes/</guid><description>&lt;p>Below are some of my notes for many more or less standard materials. Most of them are hand-written, I might type them up sometime next spring.&lt;/p>
+&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="../pdfs/introduction-latex.pdf">Algebraic K-Theory&lt;/a>&lt;br>
+Based on Milnor&amp;rsquo;s &lt;em>Introduction to Algebraic K-Theory&lt;/em>.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="../pdfs/introduction-latex.pdf">Homotopical Algebra&lt;/a>&lt;br>
+Based on Quillen&amp;rsquo;s &lt;em>Homotopical Algebra&lt;/em>.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="../pdfs/introduction-latex.pdf">Topological K-Theory&lt;/a>&lt;br>
+Based on Atiyah&amp;rsquo;s &lt;em>K-Theory&lt;/em>.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="../pdfs/introduction-latex.pdf">Simplicial Presheaves&lt;/a>&lt;br>
+Based on Jardine&amp;rsquo;s &lt;em>Simplicial Presheaves&lt;/em>.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="../pdfs/introduction-latex.pdf">Triangulated Categories&lt;/a>&lt;br>
+Based on Holm and Jørgensen&amp;rsquo;s &lt;em>Triangulated categories: definitions, properties, and examples&lt;/em>.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="../pdfs/introduction-latex.pdf">Characteristic Classes&lt;/a>&lt;br>
+Based on Milnor and Stasheff&amp;rsquo;s &lt;em>Characteristic Classes&lt;/em>.&lt;/p></description></item><item><title>Reading</title><link>https://example.org/reading/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://example.org/reading/</guid><description>&lt;p>There are too much mathematics that I wish to study but haven&amp;rsquo;t. If you are interested in reading something together, feel free to reach out!&lt;/p>
+&lt;p>Some books that I planned to read since a long time ago but still haven&amp;rsquo;t found a chance:&lt;/p>
+&lt;ul>
+&lt;li>
+&lt;p>&lt;em>Differential Forms in Algebraic Topology&lt;/em> by Tu and Bott&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;em>Higher Topos Theory&lt;/em> and &lt;em>Higher Algebra&lt;/em> by Lurie&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;em>Whitehead Torsion&lt;/em> by Milnor&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;em>Rational Points on Elliptic Curves&lt;/em> by Silverman and Tate&lt;/p></description></item><item><title>Research</title><link>https://example.org/research/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://example.org/research/</guid><description>&lt;h2 id="papers">Papers&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;p>&lt;em>Symmetric Monoidal Categories and Pseudoalgebras over the Permutation Operad&lt;/em>, with Kyle Roke, Hongyi Zhang, and Keming Zhou, &lt;em>in progress&lt;/em>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;em>Multiplicative Equivariant Infinite Loop Space Theory Revisited&lt;/em>, with Peter May, Kyle Roke, Hongyi Zhang, and Keming Zhou, &lt;em>in progress&lt;/em>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://arxiv.org/abs/2501.12015">&lt;em>Full Proportional Justified Representation&lt;/em>&lt;/a>, with Yusuf Kalayci and David Kempe, &lt;em>Proc. AAMAS 2025&lt;/em>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="../pdfs/introduction-latex.pdf">&lt;em>A New Notion of Proportionality for Praticipatory Budgeting
+with Additive Utilities&lt;/em>&lt;/a>, with Yusuf Kalayci&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://arxiv.org/abs/2309.04488">&lt;em>On a Pair of Diophantine Equations&lt;/em>&lt;/a>, with Sujith Uthsara Kalansuriya Arachchi, Hung Viet Chu, Qitong Luan, Rukshan Marasinghe, and Steven J. Miller&lt;/p></description></item></channel></rss>
