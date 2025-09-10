@@ -17,11 +17,14 @@ Below are some of my notes for many more or less standard materials. Most of the
 - [Simplicial Presheaves](../pdfs/introduction-latex.pdf)  
     Based on Jardine's *Simplicial Presheaves*.
 
-- [Triangulated Categories](../pdfs/introduction-latex.pdf)  
+- [Triangulated and Derived Categories](../pdfs/introduction-latex.pdf)  
     Based on Holm and Jørgensen's *Triangulated categories: definitions, properties, and examples*.
 
 - [Characteristic Classes](../pdfs/introduction-latex.pdf)  
     Based on Milnor and Stasheff's *Characteristic Classes*.
+
+- [Functional Analysis](../pdfs/introduction-latex.pdf)  
+    Course note at USC.
 
 - [Galois Theory](../pdfs/Galois_Theory_Summary.pdf)  
     Based on Milne's *Field & Galois Theory*.

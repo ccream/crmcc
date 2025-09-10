@@ -1,15 +1,16 @@
 baseURL: "https://ccream.github.io/crmcc/"
 languageCode: "en-us"
-title: "crmcc"
+title: "Jiasen's Homepage"
 theme: 
   - "PaperMod"
+
 
 
 menu:
   main:
     - identifier: about
       name: "About"
-      url: ""
+      url: "/about"
       weight: 1
     - identifier: research
       name: "Research"
