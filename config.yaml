@@ -16,15 +16,3 @@ menu:
       name: "Research"
       url: "/research/"
       weight: 2
-    - identifier: notes
-      name: "Notes"
-      url: "/notes/"
-      weight: 3
-    - identifier: reading
-      name: "Reading"
-      url: "/reading/"
-      weight: 4
-    - identifier: cv
-      name: "CV"
-      url: "/cv/"
-      weight: 5

@@ -1,1 +1,16 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml"><url><loc>https://ccream.github.io/crmcc/</loc><lastmod>2024-09-23T15:16:27-07:00</lastmod></url><url><loc>https://ccream.github.io/crmcc/about/</loc></url><url><loc>https://ccream.github.io/crmcc/categories/</loc></url><url><loc>https://ccream.github.io/crmcc/cv/</loc></url><url><loc>https://ccream.github.io/crmcc/notes/</loc></url><url><loc>https://ccream.github.io/crmcc/reading/</loc></url><url><loc>https://ccream.github.io/crmcc/research/</loc></url><url><loc>https://ccream.github.io/crmcc/tags/</loc></url></urlset>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>http://localhost:1313/crmcc/</loc>
+    <lastmod>2024-09-23T15:16:27-07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/crmcc/about/</loc>
+  </url><url>
+    <loc>http://localhost:1313/crmcc/categories/</loc>
+  </url><url>
+    <loc>http://localhost:1313/crmcc/research/</loc>
+  </url><url>
+    <loc>http://localhost:1313/crmcc/tags/</loc>
+  </url>
+</urlset>
