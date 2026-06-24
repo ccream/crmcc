@@ -1,8 +1,9 @@
 +++
-title = 'Research'
+title = "Research"
+draft = false
 +++
 
-- [*What are Symmetric Monoidal Categories?*](SymmMon.pdf), with Peter May, Kyle Roke, Hongyi Zhang, and Keming Zhou
+- [*What are Symmetric Monoidal Categories?*](SymmMon.pdf), with Peter May, Kyle Roke, Hongyi Zhang, and Keming Zhou, *Proc. Conference in Honor of Prof. Peter May (IWoAT 2025)*.
 
 - [*Full Proportional Justified Representation*](https://arxiv.org/abs/2501.12015), with Yusuf Kalayci and David Kempe, *Proc. AAMAS 2025*
 
