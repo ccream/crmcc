@@ -1,7 +1,9 @@
 ---
-title: "Welcome to my website!"
+title: "About"
 draft: false
 ---
+
+## Welcome to my website!
 
 ![Me](image.JPG)
 
