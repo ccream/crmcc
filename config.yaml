@@ -16,3 +16,7 @@ menu:
       name: "Research"
       url: "/research/"
       weight: 2
+    - identifier: notes
+      name: "Notes"
+      url: "/notes/"
+      weight: 3

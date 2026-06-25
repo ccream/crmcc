@@ -1,13 +1,12 @@
 ---
-title: "About"
+title: "Welcome to my website!"
 draft: false
 ---
-## Welcome to my website!
 
 ![Me](image.JPG)
 
 
-I'm currently a 4th year undergraduate student at USC (University of Southern California) studying mathematics. I'm most interested in algebraic topology, and its connections to algebraic geometry, geometric topology, and category theory. 
+I'm currently a 4th year undergraduate student at USC (University of Southern California) studying mathematics. I'm most interested in algebraic topology, plus its connetions to various fields of mathematics.
 
 There is so much mathematics that I wish to learn more about but haven't found a chance. If you are interested in reading something together, feel free to reach out!
 
