@@ -7,7 +7,7 @@ draft = false
 
 - *What are Symmetric Monoidal Categories?*, with Peter May, Kyle Roke, Hongyi Zhang, and Keming Zhou, To appear in *Proc. Conference in Honor of Prof. Peter May (IWoAT 2025)*.
 
-## Undergraduate Research
+## During Undergraduate
 
 - [*Full Proportional Justified Representation*](https://arxiv.org/abs/2501.12015), with Yusuf Kalayci and David Kempe, *Proc. AAMAS 2025*
 
