@@ -3,7 +3,7 @@ title: "Welcome to my website!"
 draft: false
 ---
 
-![Me](image2.JPG)
+![Me](image2.jpg)
 
 
 Hi! My name is Jiasen Liu; starting this October, I'll be a Part III (MASt in Pure Mathematics) student at the University of Cambridge. I recently graduated from the University of Southern California with a B.S. in Mathematics and a minor in Computer Science.
