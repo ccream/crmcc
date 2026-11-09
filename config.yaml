@@ -20,3 +20,7 @@ menu:
       name: "Notes"
       url: "/notes/"
       weight: 3
+
+params:
+  author: "Jiasen Liu"
+  hideAuthor: true

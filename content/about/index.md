@@ -3,11 +3,11 @@ title: "Welcome to my website!"
 draft: false
 ---
 
-![Me](image2.jpg)
+{{< figure src="image2.jpg" alt="Me" width="250" align="center" >}}
 
 
-Hi! My name is Jiasen Liu. Starting this October, I'll be a Part III (MASt in Pure Mathematics) student at the University of Cambridge. I recently graduated from the University of Southern California with a B.S. in Mathematics and a minor in Computer Science. My pronouns are he/him/his.
+Hi! My name is Jiasen Liu. I'm currently a part iii student at Cambridge. 
 
-Broadly speaking, I'm interested in how algebraic structures emerge from studying geometric and topological objects. More specifically, I'm interested in homotopy theory and its connections to algebraic/arithmetic geometry and representation theory. I also have a side interest in theoretical computer science, particularly voting theory and computational social choice.
+I'm interested in algebraic topology, particularly in motivic and equivariant homotopy theory, and their connections to algebraic K-theory and higher algebra. Recently, I become more interested in how classical ideas in chromatic homotopy theory or surgery theory are generalized to these settings.
 
-In a parallel universe, I might have become a painter, a poker player, a detective novelist, or a [football manager](https://en.wikipedia.org/wiki/Football_Manager). More recently, I've been reading about the history and theory of feminism.
+Outside mathematics, I enjoy painting, poker, detective novels, and being a [football manager](https://en.wikipedia.org/wiki/Football_Manager).
