@@ -3,7 +3,7 @@ title: "Welcome to my website!"
 draft: false
 ---
 
-{{< figure src="image2.jpg" alt="Me" width="250" align="center" >}}
+{{< figure src="image3.jpeg" alt="Me" width="250" align="center" >}}
 
 
 Hi! My name is Jiasen Liu. I'm currently a part iii student at Cambridge. 
